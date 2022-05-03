@@ -22,3 +22,7 @@ La bataille navale « traditionnelle » oppose deux joueurs humains qui s'affron
 
 # Conditions :
  Python 3.7
+ 
+ # Pour jouer une partie de bataille navale : 
+ 
+ on appelle donc la fonction : NavalWar()
