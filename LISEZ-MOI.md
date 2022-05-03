@@ -9,6 +9,7 @@ Les navires ne sont déployés qu’horizontalement ou verticalement.
 - Coulé si chacune de ses cases a été touché par un coup de l'adversaire.
 Le principe du jeu de bataille navale semble trouver son origine dans le jeu français L'Attaque lors de la Première Guerre mondiale. 
 Chaque joueur possède les mêmes navires, dont le nombre et le type dépendent des règles du jeu choisies.
+
 Nous prendrons la distribution décrite par la grille ci-dessus, nous aurons donc :
  1 porte avion : 5 cases
  1 croiseur : 4 cases
