@@ -14,7 +14,8 @@ Nous prendrons la distribution décrite par la grille ci-dessus, nous aurons don
  1 croiseur : 4 cases
  2 sous-marins : 3 cases
  1 torpilleur : 2 cases
-La bataille navale « traditionnelle » oppose deux joueurs humains qui s'affrontent.<img width="405" alt="pp" src="https://user-images.githubusercontent.com/98618497/166509344-c49f4d61-040b-47c2-b641-d55abace7f45.png">
+La bataille navale « traditionnelle » oppose deux joueurs humains qui s'affrontent.
+<img width="405" alt="pp" src="https://user-images.githubusercontent.com/98618497/166509344-c49f4d61-040b-47c2-b641-d55abace7f45.png">
 
 # Conditions :
  Python 3.7
